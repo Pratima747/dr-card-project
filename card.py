@@ -32,14 +32,17 @@ class Card():
         else:
             raise Exception("Invalid Suit")
 
-        if self.value == 11:
+        if self.value == 11: 
             val = "J"
         elif self.value == 12:
             val = "Q"
-        elif self.value == 13:
+        elif self.value == 13: 
             val = "K"
-        elif self.value == 1:
+        elif self.value == 1: 
             val = "A"
         else: val = self.value
 
         return f"{symbol}{val}"
+        
+    
+    
