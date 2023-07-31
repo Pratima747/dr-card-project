@@ -4,12 +4,22 @@
 # Import statements
 from card import Card
 
-# Program your game here!
 # Blackjack
 def black_jack():
     deck = Card.new_deck()
-    random.shuffle(deck)
-    player_card=
+    mycard= [deck.pop(), deck.pop()]
+    player_card= mycard
+# Ask user if they want to add a card
+    Add_card =input("yes or no")
+    # if Add_card =="yes":
+    #     mycard= player_card .appenddeck.pop()
+
+    while Add_card =="yes":
+        player_card.append(deck.pop())
+        Add_card =input("yes or no")
+ 
+ 
+
 # Code that runs when script is called from terminal
 # ex: python my_card_game.py
 if __name__ == "__main__":
