@@ -15,6 +15,6 @@ If the player decides to hit, another card is dealt.
 If the player decides to stand, then the dealer reveals his hidden card.
 The dealer does not have the authority to decide whether to hit or stand.
  The general rule is that the dealer needs to keep hitting more cards. 
-If the sum of dealer’s cards is less than 17.
- As soon as the sum of dealer’s cards is either 17 or more, the dealer is obliged to stand.
+If the sum of dealer's cards is less than 17.
+ As soon as the sum of dealer's cards is either 17 or more, the dealer is obliged to stand.
  According to the final sum of the cards, the winner is decided.
