@@ -1,3 +1,4 @@
+I worked on this project in summer 2023 in Digital ready computer science studio and i worked with nikki, Nicholy and Vivian 
 # dr-card-project
 A Python card game of Blackjack
 
